@@ -1,0 +1,38 @@
+.carousels {
+    overflow: hidden;
+  }
+  
+  .inner {
+    white-space: nowrap;
+    transition: transform 0.3s;
+  }
+  
+  .carousels-item {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 400px; */
+   
+   
+    color: #fff;
+  }
+  
+  
+  
+  .indicators {
+    display: flex;
+    justify-content: center;
+ 
+  }
+  
+  .indicators > button {
+    margin: 5px;
+   
+  }
+   
+ .indicators > button.active {
+    background-color: green;
+    color: #fff;
+   
+  }
+  

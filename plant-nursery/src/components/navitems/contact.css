@@ -1,0 +1,35 @@
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contact-head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+   
+}
+.field{
+     width: 500px;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.contact-details{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+   
+}
+.details1{
+    font-size: 30px;
+    margin-top: 80px;
+}

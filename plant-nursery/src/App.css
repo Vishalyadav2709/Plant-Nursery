@@ -1,0 +1,10 @@
+
+.App{
+  display: flex;
+  
+  height: 100vh;
+  
+  
+  background: #ffffff;
+  font-family: Arial,  sans-serif;
+}

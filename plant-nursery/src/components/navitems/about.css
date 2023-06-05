@@ -1,0 +1,41 @@
+.about{
+    width: 100%;
+}
+.Main{
+    margin-top: 9vh;
+}
+.aboutbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 50px;
+    /* margin-right: 50px; */
+    margin-top: 50px;
+    margin-bottom: 100px;
+   
+}
+.abouthead{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+.box2{
+  margin-left: 30px;
+}
+.box3{
+    margin-left: 30px;
+  }
+  .teams{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .team-mem{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
